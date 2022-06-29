@@ -1,6 +1,6 @@
-# Base C++ Project
+# Age in days
 
-Base project with default config for cmake, including basic logging system.
+Age in days from date to today.
 
 ## Requirements
 
